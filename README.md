@@ -20,7 +20,7 @@ De um modo geral, o conceito/objetivo principal do modelo MVC é utilizar uma so
 2. Rápido Desenvolvimento: neste modelo é possível que desenvolvedores e designers trabalhem simultaneamente na aplicação. Cada um trabalharia em uma camada diferente da aplicação, tornando o desenvolvimento produtivo
 3. Fácil manutenção: como o código é dividido em partes distintas, torna- se fácil adicionar novas funcionalidades e alterar características antigas. O código também fica mais fácil de ser compreendido por outros desenvolvedores. *Exemplo: um sistema de uma transportadora foi feito por um desenvolvedor que não presta mais serviços para a mesma. No futuro esta transportadora precisa realizar uma modificação em uma parte específica do sistema, é contratado outro desenvolvedor para a tarefa. Quando o responsável pela rotina na transportadora informar o mesmo ao desenvolvedor, ele conseguirá facilmente identificar o reportado no código do sistema.*
 
-### Dica de site para criação de uma aplicação utilizando a arquitetura MVC: [Construindo um simples projeto MVC do zero com JavaScript.](https://www.isarubim.com/posts/construindo-um-simples-projeto-mvc-do-zero-com-javascript)
+### *Dica de site para criação de uma aplicação utilizando a arquitetura MVC: [Construindo um simples projeto MVC do zero com JavaScript.](https://www.isarubim.com/posts/construindo-um-simples-projeto-mvc-do-zero-com-javascript)*
 
 ## O que são bibliotecas?
 Biblioteca (*do inglês, library*), são conjuntos de recursos e funções  que realiza ações pré–definidas que auxiliam no desenvolvimento de uma aplicação. Em outras palavras, uma biblioteca JavaScript é um trecho de um código que pode ser reaproveitado servindo de base para a implementação de outros códigos.
