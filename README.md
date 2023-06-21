@@ -1,4 +1,4 @@
-# Arquitetura MVC, Bibliotecas e Frameworks (Javascript).
+# Arquitetura MVC, Bibliotecas, Frameworks e APIs.
 
 ## Arquitetura MVC
 O MVC é um padrão de arquitetura de software que visa a separação do desenvolvimento em 3 partes: Model, View e Controller (*origem da sigla*), onde  cada uma delas executa o que lhe é definido e nada mais do que isso.  O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.
@@ -53,6 +53,15 @@ Grande parte dos frameworks e bibliotecas JavaScript são compartilhados de form
 
 ### *Dica de artigo para saber mais sobre as principais bibliotecas e frameworks utilizadas no Javacsript: [10 frameworks e bibliotecas JavaScript mais importantes do mercado](https://blog.geekhunter.com.br/frameworks-javascript-e-bibliotecas-java/)*
 
+## APIs
+APIs são um conjunto de rotinas e métodos que permitem que o desenvolvedor “importe” ou “empreste” informações ou funcionalidades de outras aplicações para o seu projeto ou aplicação. 
+
+Portanto, uma API funciona como um conector entre sistemas e permite o envio e recebimento de dados, criando uma integração e interoperação sem a necessidade do sistema consumidor ter detalhes de implementação do software.
+
+Isso gera mais facilidade e valor para os usuários, otimiza o processo de desenvolvimento, flexibiliza e simplifica a implementação de novas funcionalidades em um software, além de potencializar a escalabilidade, a inovação e a colaboração entre organizações no mundo dos negócios.
+
+Um excelente exemplo é a API do Google Maps, que se espalhou por quase todos os sites de empresas dos mais diversos segmentos, potencializando a usabilidade e os serviços em si. Já viu algum mapa em anúncios de imobiliárias ou hospedagem, ou em qualquer aba de contato/localização em sites institucionais? É a API do Google Maps em ação!
+
 ### **Links dos sites consultados:**
 
 [O MVC e o Javascript – O começo.](https://javiani.wordpress.com/2010/07/06/o-mvc-e-o-javascript-o-comeco/)
@@ -64,3 +73,4 @@ Grande parte dos frameworks e bibliotecas JavaScript são compartilhados de form
 [Qual é a diferença entre biblioteca e framework na prática?](https://www.dio.me/articles/qual-e-a-diferenca-entre-biblioteca-e-framework-na-pratica)
 
 [O que é um framework](https://balta.io/blog/o-que-e-um-framework)
+[Framework, Biblioteca e API: entenda de uma vez por todas a diferença entre essas tecnologias] (https://blog.tecnospeed.com.br/framework-biblioteca-api/)
