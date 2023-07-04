@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 04d640bc98505ad0027707d67a19e9438be8fd31
 # Arquitetura MVC, Bibliotecas, Frameworks e APIs.
 ## Arquitetura MVC
 O MVC é um padrão de arquitetura de software que visa a separação do desenvolvimento em 3 partes: Model, View e Controller (*origem da sigla*), onde  cada uma delas executa o que lhe é definido e nada mais do que isso.  O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.
@@ -67,12 +63,13 @@ Um excelente exemplo é a API do Google Maps, que se espalhou por quase todos os
 
 ### **Links dos sites consultados:**
 [O MVC e o Javascript – O começo.](https://javiani.wordpress.com/2010/07/06/o-mvc-e-o-javascript-o-comeco/)
-[MVC conceito e exemplo em Node.js](https://irias.com.br/blog/mvc-conceito-e-exemplo-em-node-js/)
-[A diferença entre um framework e uma biblioteca](https://www.freecodecamp.org/portuguese/news/a-diferenca-entre-um-framework-e-uma-biblioteca/)
-[Qual é a diferença entre biblioteca e framework na prática?](https://www.dio.me/articles/qual-e-a-diferenca-entre-biblioteca-e-framework-na-pratica)
-[O que é um framework](https://balta.io/blog/o-que-e-um-framework)
-[Framework, Biblioteca e API: entenda de uma vez por todas a diferença entre essas tecnologias](https://blog.tecnospeed.com.br/framework-biblioteca-api/)
-<<<<<<< HEAD
-=======
 
->>>>>>> 04d640bc98505ad0027707d67a19e9438be8fd31
+[MVC conceito e exemplo em Node.js](https://irias.com.br/blog/mvc-conceito-e-exemplo-em-node-js/)
+
+[A diferença entre um framework e uma biblioteca](https://www.freecodecamp.org/portuguese/news/a-diferenca-entre-um-framework-e-uma-biblioteca/)
+
+[Qual é a diferença entre biblioteca e framework na prática?](https://www.dio.me/articles/qual-e-a-diferenca-entre-biblioteca-e-framework-na-pratica)
+
+[O que é um framework](https://balta.io/blog/o-que-e-um-framework)
+
+[Framework, Biblioteca e API: entenda de uma vez por todas a diferença entre essas tecnologias](https://blog.tecnospeed.com.br/framework-biblioteca-api/)
