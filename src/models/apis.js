@@ -6,12 +6,12 @@ const apiSchema = new mongoose.Schema(
         sinopse: { type: String, required: true},
         anoLançamento: {type: String, required: true},
         episodios: {type: Number, required: true},
-        generos: {type: String, required: true},
+        generos: {type: Array, required: true},
     }
 )
 
 
 const apis = mongoose.model('apis', apiSchema);
 
-module.exports = apis;
+export default apis;
 

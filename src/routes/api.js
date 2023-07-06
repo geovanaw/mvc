@@ -5,5 +5,8 @@ const router = express.Router();
 
 router
 .get("/", ApiController.getAllApis)
+.post("/", ApiController.createApis)
 
+
+export default router;
 
